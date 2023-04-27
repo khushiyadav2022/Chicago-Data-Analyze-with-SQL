@@ -1,5 +1,5 @@
 # Chicago Data Analysis with SQL
-
+![](https://miro.medium.com/v2/resize:fit:1200/1*bk8nhiSZlMN2hk6LMY3rfg.png)
 -Stored the dataset in a Db2 database on IBM Cloud instance and analyzed 7.73 lakh crime data using SQL and Python.
 
 -Learned how to sort, limit, and order result sets, as well as used sub-queries and worked with multiple tables, and found the safest area in Chicago.
